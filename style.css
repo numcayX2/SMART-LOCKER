@@ -14,7 +14,7 @@
 
 body {
     background-color: black;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 .container {
@@ -67,7 +67,7 @@ section {
     position: absolute;
     z-index: -99;
     width: 100vw;
-    overflow-x: hidden;
+    overflow: hidden;
     border: none;
     max-height: 100vh;
 }
